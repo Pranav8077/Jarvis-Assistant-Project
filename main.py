@@ -58,7 +58,7 @@ def processCommand(c):
     elif "open github" in c.lower():
         webbrowser.open("https://github.com")
     
-    elif "open hello" in c.lower():
+    elif "open ai" in c.lower():
         webbrowser.open("https://chatgpt.com")
     
     elif "open instagram" in c.lower():
